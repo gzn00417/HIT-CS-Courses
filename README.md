@@ -17,6 +17,7 @@
 - 计算机系统/CSAPP
 	- [gzn00417/2019Fall-CSAPP: 哈工大2019秋计算机系统课程 (github.com)](https://github.com/gzn00417/2019Fall-CSAPP)
 	- [计算机系统_Innovative Workstation-CSDN博客](https://blog.csdn.net/gzn00417/category_9707655.html)
+	- [BeiyanLuansheng/CSAPP](https://github.com/BeiyanLuansheng/CSAPP)
 - 数据结构与算法
 	- [gzn00417/2019Fall-Data-Structures-and-Algorithms: 哈工大2019秋数据结构与算法课程 (github.com)](https://github.com/gzn00417/2019Fall-Data-Structures-and-Algorithms)
 - 形式语言与自动机
