@@ -29,3 +29,6 @@
 - 算法设计与分析
 	- [gzn00417/2020Spring-Algorithmic-Design-and-Analysis: 哈工大计算机学院2020春课程算法设计与分析 (github.com)](https://github.com/gzn00417/2020Spring-Algorithmic-Design-and-Analysis)
 
+机器学习
+- [gzn00417/2020Fall-Machine-Learning: 哈工大计算学部2020秋课程机器学习 (github.com)](https://github.com/gzn00417/2020Fall-Machine-Learning)
+- [MingyanZHU/machine_learning: 2018年秋季哈工大机器学习相关实验 (github.com)](https://github.com/MingyanZHU/machine_learning)
