@@ -29,3 +29,9 @@
 - 算法设计与分析
 	- [gzn00417/2020Spring-Algorithmic-Design-and-Analysis: 哈工大计算机学院2020春课程算法设计与分析 (github.com)](https://github.com/gzn00417/2020Spring-Algorithmic-Design-and-Analysis)
 
+- 机器学习
+  - https://github.com/mzm1183710118/2020HIT_ML
+- 数据库
+  - https://github.com/mzm1183710118/2021HIT_DB
+- 编译原理
+  - https://github.com/mzm1183710118/2021HIT_CP
