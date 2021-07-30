@@ -28,8 +28,13 @@
 	- [软件构造总结笔记_Innovative Workstation-CSDN博客](https://blog.csdn.net/gzn00417/article/details/107017572)
 - 算法设计与分析
 	- [gzn00417/2020Spring-Algorithmic-Design-and-Analysis: 哈工大计算机学院2020春课程算法设计与分析 (github.com)](https://github.com/gzn00417/2020Spring-Algorithmic-Design-and-Analysis)
+- 数据库
+  - https://github.com/mzm1183710118/2021HIT_DB
+- 编译原理
+  - https://github.com/mzm1183710118/2021HIT_CP
 - 机器学习
 	- [gzn00417/2020Fall-Machine-Learning: 哈工大计算学部2020秋课程机器学习 (github.com)](https://github.com/gzn00417/2020Fall-Machine-Learning)
 	- [MingyanZHU/machine_learning: 2018年秋季哈工大机器学习相关实验 (github.com)](https://github.com/MingyanZHU/machine_learning)
+  - https://github.com/mzm1183710118/2020HIT_ML
 - 计算机网络
 	- [计算机网络_北言栾生的博客-CSDN博客](https://blog.csdn.net/weixin_44940258/category_10644107.html)
