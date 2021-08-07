@@ -42,7 +42,7 @@
 - 软件过程与工具
   - https://github.com/mzm1183710118/2020_HIT_SoftwareProcessAndTool
 - 软件架构与中间件
-  - https://github.com/mzm1183710118/SoftwareArchitecture、
+  - https://github.com/mzm1183710118/SoftwareArchitecture
 - 演化计算
   - https://github.com/mzm1183710118/2021_HIT_EvolutionCompute
 - 中文信息处理
