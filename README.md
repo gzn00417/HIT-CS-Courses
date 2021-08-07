@@ -38,3 +38,12 @@
   - https://github.com/mzm1183710118/2020HIT_ML
 - 计算机网络
 	- [计算机网络_北言栾生的博客-CSDN博客](https://blog.csdn.net/weixin_44940258/category_10644107.html)
+	- https://github.com/mzm1183710118/2020_HIT_NET
+- 软件过程与工具
+  - https://github.com/mzm1183710118/2020_HIT_SoftwareProcessAndTool
+- 软件架构与中间件
+  - https://github.com/mzm1183710118/SoftwareArchitecture、
+- 演化计算
+  - https://github.com/mzm1183710118/2021_HIT_EvolutionCompute
+- 中文信息处理
+  - https://github.com/mzm1183710118/2020_HIT_CIP
