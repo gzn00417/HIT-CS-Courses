@@ -38,12 +38,19 @@
   - https://github.com/mzm1183710118/2020HIT_ML
 - 计算机网络
 	- [计算机网络_北言栾生的博客-CSDN博客](https://blog.csdn.net/weixin_44940258/category_10644107.html)
-	- https://github.com/mzm1183710118/2020_HIT_NET
+	- [mzm1183710118/2020_HIT_NET: 2020HIT计算机网络个人资料总结 (github.com)](https://github.com/mzm1183710118/2020_HIT_NET)
+
+### 软件工程
+
 - 软件过程与工具
-  - https://github.com/mzm1183710118/2020_HIT_SoftwareProcessAndTool
+  - [mzm1183710118/2020_HIT_SoftwareProcessAndTool: 2020软件过程与工具 (github.com)](https://github.com/mzm1183710118/2020_HIT_SoftwareProcessAndTool)
 - 软件架构与中间件
-  - https://github.com/mzm1183710118/SoftwareArchitecture
+  - [mzm1183710118/SoftwareArchitecture: 2021HIT_SoftwareArchitecture (github.com)](https://github.com/mzm1183710118/SoftwareArchitecture)
+
+### 其他
+
 - 演化计算
-  - https://github.com/mzm1183710118/2021_HIT_EvolutionCompute
+  - [mzm1183710118/2021_HIT_EvolutionCompute: 2021哈工大演化计算 (github.com)](https://github.com/mzm1183710118/2021_HIT_EvolutionCompute)
 - 中文信息处理
-  - https://github.com/mzm1183710118/2020_HIT_CIP
+  - [mzm1183710118/2020_HIT_CIP: 2020哈工大中文信息处理个人资料总结 (github.com)](https://github.com/mzm1183710118/2020_HIT_CIP)
+
