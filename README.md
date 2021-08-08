@@ -47,10 +47,14 @@
 - 软件架构与中间件
   - [mzm1183710118/SoftwareArchitecture: 2021HIT_SoftwareArchitecture (github.com)](https://github.com/mzm1183710118/SoftwareArchitecture)
 
-### 其他
+### 国际化课程
 
 - 演化计算
   - [mzm1183710118/2021_HIT_EvolutionCompute: 2021哈工大演化计算 (github.com)](https://github.com/mzm1183710118/2021_HIT_EvolutionCompute)
+- GMPI（Graphical Models and Probabilistic Inference）
+  - https://github.com/mzm1183710118/GMPI
+
+### 专业选修课
+
 - 中文信息处理
   - [mzm1183710118/2020_HIT_CIP: 2020哈工大中文信息处理个人资料总结 (github.com)](https://github.com/mzm1183710118/2020_HIT_CIP)
-
