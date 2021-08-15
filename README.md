@@ -44,6 +44,7 @@
 
 - 软件过程与工具
   - [mzm1183710118/2020_HIT_SoftwareProcessAndTool: 2020软件过程与工具 (github.com)](https://github.com/mzm1183710118/2020_HIT_SoftwareProcessAndTool)
+  - [gzn00417/2020Fall-Software-Process-and-Tools: 哈工大计算机学院2020秋课程软件过程与工具 (github.com)](https://github.com/gzn00417/2020Fall-Software-Process-and-Tools)
 - 软件架构与中间件
   - [mzm1183710118/SoftwareArchitecture: 2021HIT_SoftwareArchitecture (github.com)](https://github.com/mzm1183710118/SoftwareArchitecture)
 
